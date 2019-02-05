@@ -1,0 +1,618 @@
+西南战争用阶级分析是一场什么性质的战争?
+傅友德
+泻药，过了那么久才回答主要是因为我上周比较忙。
+
+
+用阶级分析法来考察一场战争的性质，主要得看战争双方的阶级性质，双方试图通过战争达到的阶级目的，以及战争对社会阶级斗争形势造成的实际变化等等。
+
+
+那么我们首先来考察一下斗争双方的阶级性质。
+斗争的一方是明治政府。当时明治政府是藩阀控制下的绝对主义君主专制政府，上层权力基本上掌握在藩阀官僚手中，阶级基础则是地主和封建性很浓的一些官僚资本家（明治政府先通过废藩置县将日本除若干町人富豪财产以外的大型工商业企业都加以国有化，然后又通过“官业下放”等手法推动企业再私有化，从而大肆在藩阀官僚和相关人士之间分肥，可以说是巧取豪夺的典范。岩崎弥太郎鲸吞土佐藩财产可以说是至今都是一个财产权所有制改革中掠夺财富的经典案例，山城屋和助则像我们展示了明治贪官污吏在这一丑剧中惊人的腐败和浪费）。这一点恐怕没什么异议。但是值得我们充分注意的一点是，此时的明治政府还没有公开进行“官产下放”（1880），但已经实行了“地租改正”（1873）和“秩禄处分”（1876）两大重要改革，因此明治政府此时的政策重点是取消领主制残余、在农村确立租佃地主制和货币地租制，即扶植乡间的经营地主（多半是旧日的庄屋、乡士层，也有新兴的豪农）取代封建士族，尤其是取代安土桃山以来逐渐脱离农村而寄生于城市的那批士族。
+斗争的另外一方则是西乡隆盛的私学校党。西乡隆盛的萨摩军虽然有各式各样的人参军，其中也包括熊本等各地的不平士族和未来的一些自由民权人士，甚至有人怀抱《民约论》而死，但是萨摩军从一开始就宣称“（鹿儿岛县以外的）他县不必参与”，实际上最高决策层在评定时也不听取上述这些私学校党以外人士的意见。那么私学校党是什么存在呢？
+私学校党是西乡隆盛下野（1873）以后，在西乡隆盛、大久保利通和鹿儿岛县厅（政府）支持下，由追随西乡隆盛退居鹿儿岛乡下的一些明治政府文武官吏（如陆军少将桐野利秋）组织起来的。私学校的学生则是旧萨摩藩的士族，特别是城下士（在鹿儿岛城下町内具有居住权的武士，地位高于只能居住在乡下经营土地的乡士，如上所述在地租改正和秩禄处分中损失较重）。最初的目的，似乎是收容这些文武官吏学习军事，避免他们下野后卷入反政府运动，但西乡的个人意志无法阻止社会运动的发展，因此这些失意之人反而利用这个平台组织起来了。1875年以后，由于鹿儿岛县厅的支持，私学校在全县发展到四十多所，学生有上万人，大批私学校党人在西乡隆盛推荐下成为了鹿儿岛县的区长（相当于现在的市、町、村长一类的基层政权负责人）以及县厅各部门的负责人。这样一来，鹿儿岛县的政权等于掌握在一个在野的反对党手中，这是绝对主义的明治政府所不能够容忍的。事实证明，以大久保利通为首的明治政府之所以要对付西乡和私学校党，以至于最后引发西南战争，也不是由于西乡提出了什么明确的反政府主张，而主要是由于西乡的私学校党控制了鹿儿岛县政权，但是私学校党中存在不满政府的意识形态也是事实。因此，接下来我们主要考察一下西乡隆盛本人和私学校党的阶级立场。
+
+
+西乡隆盛和私学校党的阶级立场
+西乡隆盛在明治政府中枢担任参议乃至主导明治政府（当时大久保等人出使外国）时，采取有力措施实行了废藩置县和地租改正这两项改革，说明西乡隆盛在阶级立场方面跟大久保利通等人没有本质的区别，也是试图建立一个以经营地主和官僚资本家为阶级基础的绝对主义专制政府；在担任陆军元帅、近卫都督期间，西乡隆盛又参与了对士族可谓釜底抽薪的征兵制改革。随后西乡以征韩论下野，但征韩论问题上的两派主要是策略矛盾，并非目标有所区别；当大久保真的派兵侵略朝鲜迫使朝鲜签订《江华岛条约》（1876）后，西乡又故作反对，理由却是搞笑的“不光明正大”（实质上西乡本人提出的所谓亲自挑衅来激怒朝鲜国王迫使其杀害自己以此制造开战借口云云，难道就光明正大了？），可见西乡和大久保此时的分歧完全变成了一种藩阀之间的权力斗争。
+佐贺之乱（1874）开启了士族反乱，据称西乡隆盛在日记里赞许在佐贺县起兵的前参议江藤新平，并且事实上他也会见了逃亡中的江藤。但是值得注意的是，佐贺之乱中江藤新平领导的是跟明治政府仅有策略分歧或者说权力斗争的征韩党，而佐贺之乱的主力却是前秋田权令岛义勇领导的所谓复古党；而且，完全由不平士族构成的复古党的兵力是征韩党的三倍到十倍，提出了明确的反改革纲领，在同新政府的作战中又跟征韩党矛盾重重、互不协调。这也难怪，西乡隆盛本人不愿意起兵。在同江藤见面后，西乡也未如江藤所愿般庇护江藤，而是在几日内就将其礼送出境了。此后，西乡隆盛一直坚持避免跟新政府发生军事冲突，对于九州各地的旧士族反乱也没有加以支持。由此可见，西乡隆盛和他身边的一些亲信实际上是跟明治政府在阶级立场上没有区别的另一派藩阀势力，跟后来的大隈重信、板垣退助等人类似，他们跟明治政府的矛盾主要是权力斗争。由于明治政府中枢的藩阀势力之间不断互相倾轧，下野的藩阀就对台上的藩阀产生不满，要求进行权力再分配，这就是西乡本人及其亲信的立场。虽欲起兵夺权，又担心旧士族趁机上台破坏改革，因此寄希望同明治政府进行妥协，这就是西乡隆盛本人的思维。
+但是私学校党作为一个政治集团，不一定遵循其领袖西乡的思想活动。实际上，私学校党的起义也是在西乡不知道的情况下发生的。那么私学校党的立场如何呢？
+首先，从1873到1877年，私学校党控制下的鹿儿岛县一直在执行明治政府中枢颁行的各种改革，包括秩禄处分。
+其次，私学校的各种操练本身也均为西洋式。跟《最后的武士》一类东方主义的幻想不同，私学校教习西洋武器和军制，西南战争时期萨军采用的西洋军制甚至比动员了大量佐幕方士族、浪人的新政府军更加严整（一个半队100人、一个小队200人、一个大队2000人，后期又以400人为一个中队作为小队和大队之间的指挥层级；政府军方面临时动员的杂牌大队则是兵力数目千奇百怪，军制都有差异），甚至于西乡隆盛本人在战争期间一直身着西洋式的陆军大将制服。
+最后，西乡隆盛等私学校党人创办开垦社，试图入手土地、扶植落魄士族从事农业，发展成为经营地主或富农。此举固然表明西乡隆盛比明治政府中枢更加同情落魄士族，但也说明两者的大方向并没有本质区别，都是希望扶植经营地主来取消封建领主制。
+因此，直到1877年起兵以前，私学校党人在西乡等上层的领导下，大体上是一个保守的藩阀党派，在大的立场上跟明治政府中枢的大久保等人无本质区别，只是更加同情破产士族的遭遇。但是，他们把持地方政权，建立隶属西乡私人的军队，又收容反乱的不平士族，终于引发大久保等明治政府中枢人士对于其割据自雄乃至颠覆政府的担忧。
+
+
+私学校党在西南战争中提出的口号和实质作为
+1877年，九州的不平士族反乱达到高潮，中央政府认为私学校党有响应反乱的可能性，遂下令将鹿儿岛的陆军兵工厂迁往大阪。由于兵工厂是萨摩藩时期由萨摩藩创办的，因此被私学校党视为鹿儿岛县的财产（虽然在法律上由于废藩置县，业已属于陆军），在冲突中又发生了私学校学生抓获警方特务而“揭发”出中枢有意暗杀西乡隆盛的“阴谋”。在打猎途中的西乡隆盛得知此事后返回鹿儿岛，决定起兵。值得注意的是，鹿儿岛县厅全力支持了西乡的起兵活动。
+西乡起兵后，随即召集私学校党的大约两百名干部举行了“大评议”。主要内容是讨论今后的行动方针，但是会议很快否决了“兴师问罪”的起兵名义，确认以“（西乡等）三将面圣上奏、质问政府”的名义行动；随后，会议的主要内容是探讨具体的军事计划。由此可见，私学校党没有也根本不想提出一个具体的政治蓝图（类似“大政奉还”、“尊王攘夷”）来作为口号，而是将起兵定义为一场因西乡个人受到明治政府迫害而引发的大型上访。随后，西乡军制定的军事计划也完全符合这一“政治目标”：西乡隆盛将率领萨军主力全数北上，直取京师，“上奏天皇”，在后方不留军队驻防，也不要求沿途各县的各种反政府势力（包括但不限于不平士族）起兵响应。私学校党提出这种天真的计划，固然有化公事为私斗的封建思想残余，但也包含了一种无奈：此时若要提出政治口号，只能以反对明治政府的改革为号召来团结私学校党内外的不平士族，但是私学校党高层本身又不愿意真的废除这些改革，所以只能采取西乡个人的名义展开行动。
+攻打熊本城失败后，萨军转攻为守，同时明治政府又利用萨军初期军事部署的漏洞派兵登陆鹿儿岛袭击萨军后方。在这种情况下，萨军进行了另一次高层全体会议，决定改用“三州割据策”，要在南九州三县进行长期的武装割据。
+所谓上奏天皇和三州割据，大概反映了私学校党的最高纲领和最低纲领：成则上京取得明治政府的中枢大权，败则割据南九州实行地方自治。除此以外，私学校党没有提出任何政治意见，这再一次说明他们在阶级立场上跟明治政府中枢没有本质的区别。从这个意义上来说，指望西乡取消改革措施的不平士族，以及希望西乡推行民权改革的进步人士，都找错了对象。
+至于政治口号（纲领）以外的实质作为，由于萨军旋起旋灭，私学校党在其支配的南九州各县基本上没有什么重大的施政举措。当然，滥发纸币等征敛措施除外。
+
+
+综上所述
+明治维新建立起绝对主义君主制的中央集权政府之后，主导明治维新的中下层士族迅速分化。一部分人由于掌握了政权、土地或“产权改革”而迅速崛起，发迹为藩阀官僚、大地主或是大官僚资本家，另一部分人利用自己掌握行政技术或某些文化知识的便利也在新体制中找到了自己的位置而得以转型为中下层军官、公务员或其他职员（如教员、医生、技术人员、企业职员等等）以至于富农等等，还有一部分人则延续幕末的破产趋势而沦为无业游民。
+“秩禄处分”后，上述第三种士族失去了继续在城市过寄生生活的经济来源，遂彻底破产，成为明治政府所面临的最大不安定因素，即不平士族，从1873年起多次发动反乱。
+西乡隆盛的私学校党，其上层是在明治政府中枢藩阀内斗中失势的一部分藩阀人物，政治上属于藩阀中在野的保守派。这些人掌握了鹿儿岛县政权后，通过私学校党笼络和组织了鹿儿岛县的大批士族，在这些士族中也有相当一部分人属于不平士族（但值得一提的是，鹿儿岛县的士族中也有一部分人是直接从事土地经营的乡士）。
+私学校党上层既试图跟中央政府在推行改革方面保持一致，又试图利用不平士族反乱在鹿儿岛县割据自雄乃至夺取中央政权，引发中央的猜忌。结果，在私学校党内不平士族的推动下，私学校党终于挟鹿儿岛县同中央政府全面开战，引发了西南战争。
+总体来说，西南战争是代表大地主、大官僚资本的明治藩阀之间的一场“内战”，其结果是中央战胜了地方、坚决镇压不平士族的激进改革派战胜了同情乃至利用不平士族的保守改良派，从而也彻底结束了不平士族的反抗。但是，藩阀之间的内斗没有结束，中央和地方、在朝和在野的对抗也没有终止，不久后，随着大隈重信、板垣退助等在野藩阀势力组织自由党，自由民权运动又轰轰烈烈地爆发了，直到1890年帝国议会开会为止。
+
+
+对于明治维新的性质，日本共产主义者之间从1920年代以来就有着持续的争议。讲座派（后来的日本共产党）认为，明治维新是中下层士族建立绝对主义君主制政权的斗争；而劳农派（后来的日本社会党社会主义协会派）则认为，明治维新是资产阶级革命。
+对明治维新的认识都有如此大的差距，对于西南战争有着种种不同评价也就在情理之中了。有人着眼于西南战争同士族反乱之间的关系，认为萨军代表“守旧势力的反扑”；有人则着眼于西南战争同自由民权运动之间的联系，认为西南战争是某种“革命”，并且在失败之后转为资产阶级改良运动。但是如上所述，经过仔细分析，我们可以看出，西南战争实质上是一场保守藩阀利用士族反乱发动的藩阀内战，最终以割据地方的在野保守藩阀失败而告终。
+====================================================================================================
+部队里一等功有多难获得，为什么看见的多是二等功？
+张毅
+请记住他最帅气的样子：杜富国！ https://www.zhihu.com/video/1050138487889657856
+
+
+10月11日下午，中士杜富国在中越边境云南段雷场作业时让战友退后，独自处置不明爆炸物，突遇爆炸，下意识地向身后战友那一侧倒去，英勇负伤，失去了双眼和双手，荣立一等功。
+战争虽已远去，但在祖国千里边防线上遗留的地雷等爆炸物多达130多万枚。随处可见的骷髅头“雷区”警示牌，是当地百姓的梦魇。
+
+
+
+
+
+
+可自打三年前扫雷队入驻，这里就再也没有群众被炸死炸伤。谁都没有想到，这回血洒雷场的竟然是扫雷战士。
+下午时分，浓雾弥漫，排雷战士们从身下的泥土里细细找寻雷弹的踪迹。经过30多年的雨水冲刷，爆炸物与植物根系交织缠绕，性能极不稳定，稍有不慎就会发生爆炸。
+
+
+
+
+
+
+杜富国和与他同年入伍的战士艾岩，在同一个作业组。在接近坡顶的土地上，杜富国发现了一枚露出部分弹体的爆炸物，经初步判断，这是一颗当量大、危险性高的加重手榴弹，并且根据以往经验，下面很可能埋着一个雷窝。
+“你退后，让我来。”在接到分队长张波“查明有无诡计设置”的命令后，杜富国以作业组长的身份命令艾岩向后退。
+正当杜富国按照作业规程，小心翼翼清除弹体周围的浮土时，意外发生了。
+
+
+
+
+背后“轰”的一声巨响，刚刚转身走了三四步的艾岩下意识地扭过头来，只见红色火光腾地而起，一股热浪扑面而来，被掀翻的头盔向山下滚去，面部和耳部一阵剧烈的疼痛，瞬间好像什么都听不到了。艾岩整个人都呆住了，想叫人可是怎么都叫不出，双腿也像被钉住了，动弹不得。余光中，他看到杜富国面朝上躺在地上，浑身血肉模糊……
+不远处的四队队长李华健冲到现场，只见血泊中的一个躯体向左倾斜，特殊材质的防护服已被强大的爆破力和冲击波炸成棉絮状，他来不及分辨这到底是谁，只是不停地大声呼叫担架和医生，心里只有一个想法：要快！要让他活下来！
+还没缓过神的艾岩，完全不记得自己和杜富国是怎么上的救护车，但他心里清楚，他们刚刚与死神擦肩而过。在去县医院的路上，艾岩始终不敢看杜富国那张满是血痕的脸，只是死死抓住他已经缺失了双手的胳膊。
+
+
+
+
+双眼眼球严重毁损伤，连保留一只眼睛的一丝希望都没有了，双手手掌缺失、双腕部毁损成“拖把状”，全身还有多处爆炸伤并急性创伤性失血性休克，大腿根部甚至还残留着雷管……为挽救杜富国的生命，医生迫不得已为他进行了双眼眼球摘除和双手手掌截肢手术。
+那么帅气的脸庞，永远失去了美丽的双眸，曾经有着灵巧双手的他，是连队的“三小工”，累计拆除了2400余枚爆炸物。可如今，他再也难以操作那熟悉的探雷器，更无法目睹那片他奋战了三年、进出了1000余次的浴血之地交付边民耕种。
+
+
+
+
+就在前两天，老山主攻营营长臧雷看望杜富国。
+时间仿佛在那一刻凝固了……
+如果不是英雄的前辈，与现在千千万万守护祖国的年轻人们，
+我们怎么可能有安宁祥和的生活？
+原来， 有人把危险挡在我们看不到的地方， 用的竟然是他们的鲜血和生命！
+
+
+
+
+11月16日下午，中越边境云南段已扫雷场移交仪式，在云南省麻栗坡县猛硐乡老山西侧雷场举行。
+移交现场，十多名扫雷官兵当着当地政府代表和老百姓的面，手牵手趟过雷场，用这种特殊的方式 告诉大家，脚下的每一寸土地都是安全的。
+
+
+
+
+雷场上，刚种下的和平树随风摆动，远望，记者们仿佛看到了在那升腾弥漫的爆破硝烟中，一群扫雷官兵正说笑着走来，那是一群顶天立地的中国军人！
+
+
+94妈妈踢踏拖鞋大闹卫生院
+96爸爸抱子夜啼惊扰邻里
+00爷爷讲堂小窗陪上幼儿园
+12奶奶从军喜报四处通告
+17少侠泪别武堂上疆场
+故事还在继续
+我准备用一生时间回答
+你要听吗？
+
+
+我不是你家张先森，依然还是张少侠！
+欢迎讴歌我的金戈铁马！
+欢迎围观我的刀光剑影！
+欢迎关注 @张毅！
+====================================================================================================
+为什么日本的很多动漫周边都写着“对象年龄15岁以上”？是有相关法律吗？
+知乎用户
+.
+为了规避日本玩具协会的《玩具安全标准》和相关的法律风险。
+
+
+日本是没有官方的玩具安全标准的，只有《食品卫生法》对于幼儿玩具的安全性作出了一些简单的要求（主要是材料毒性方面的）。所以日本的玩具行业协会「日本玩具协会」统一制定了业内的《玩具安全标准》，对面向 14 岁以下儿童的玩具安全指标作出了相当具体的要求，除了包括与《食品卫生法》对接的一些材料要求外，还有玩具尺寸、玩具形状、是否有小零件、是否有尖锐部分等等钜细靡遗的标准规定。从而尽可能避免玩具对儿童造成的危险，比如最常见的吞咽窒息风险之类的。
+
+
+由于该标准只适用于面向 14 岁及以下儿童的玩具，因此，面向 15 岁以上儿童的玩具是不适用于该标准的。换言之，如果消费者购买了通过标示适合 6 岁以上儿童的玩具，但家里 7 岁的孩子受到了伤害。这时如果家长对玩具进行《玩具安全标准》检测，玩具不符合标准，那么厂家生产的玩具就是有危险的产品，很容易面临大面积索赔。但如果这玩具标示适合 15 岁以上儿童，那么低龄儿童因为这个玩具受到了伤害——比如被手办的可拆除内裤堵了喉咙——家长也很难向厂家索赔，因为这是家长自己的责任，而且也没有所谓的「安全标准」可供参考，因为《玩具安全标准》是不适用于面向 15 岁以上儿童的玩具的。
+====================================================================================================
+突击步枪的全自动模式是否实用？
+知乎用户
+我给大家转一个美国真实发生的历史事件的记录：
+The Beckwith Incident
+简要介绍：63岁枪店老板凌晨家里报警器响，家边上自己的枪店被入侵，带了一把冲锋枪一把半自动AR一把半自动12号霰弹枪过去抓贼，一打七打死一个活捉六个，两分钟不到的时间发射105发弹，对方均有武器在手。交战过程大致是这样：
+
+
+首先店主在往枪店走的路上发现一号嫌犯车辆，对方看到店主后驾车冲过来试图冲撞，被店主两个减装弹匣的ar三十发速射打到夺路而逃，不久后死在路边；
+
+
+之后店主到店的附近发现里面还有多人和另一部车，实际上是车里一人店里五人，全部有长短枪。店主用冲锋枪先对店里五人头上连续短点射压制射击，然后为防止另一台车撞自己，连发扫射车辆直到车爆胎。最后再连续压制射击让对方躲到完全不敢还击，一分钟后警察到，全部落网。
+
+
+事后统计，总共不到两分钟时间店主打出105发弹，击毙一人，但成功让其它六人彻底放弃反击或逃走的想法，束手就擒。
+
+
+这是一个非常好的体现全自动作用的案例。
+
+
+我个人算是个高端轻武器玩家，手里两百多支各型长短枪，三十来万发各口径弹药库存，还有为了玩的更爽出资参与收购的俱乐部靶场，全自动武器前后至少打过几十种小几万发，动不动也会带着自己朋友一起玩。正好顺手发个昨天到的新玩具，Heckler & Koch 416D军警全自动版10.5寸短步枪的功能检查射击视频，清了一个60发弹鼓：
+https://www.zhihu.com/video/1050100687559561216
+
+
+我可以负责任的告诉大家，所有人，包括枪打了很久的老鸟，第一次近距离听和看和实际进行全自动射击，都会受到非常大的震撼。那种咚咚咚咚的声音绝对直击心弦，是半自动速射和三发点射完全无法比拟的。可以想象，当你面对这种声音，除了少数非常训练有素的职业枪手，正常人反应大概率会想跑或者躲，那么这也就实现了压制的效果。而现代战场绝大部分步枪射击都是压制射击，这也就是为什么这一二十年来出的新枪基本都是提供全自动的原因，比如hk416，scar，bren，等等。且不说全自动一样可以有短点射能力。当然，还有些是同时提供三发点射和全自动，比如mp5和它的223姊妹枪，乃至同时提供单/两发点射/三发点射和连发（kriss vector）。但基本上我们难得见到仅提供三发点射的设计了。
+
+
+顺便再贴几个全自动清弹匣/弹鼓/弹链的视频跟大家分享，这里同时也可以澄清另一个误解，就是现代小口径步枪后坐力已经比传统全威力和中间威力弹小了很多，长点射完全可控，并不会出现上跳明显以致于几发后往天上打的情况。
+https://www.zhihu.com/video/1050103809296183296
+
+
+https://www.zhihu.com/video/1050102487180242944
+w
+https://www.zhihu.com/video/1050101004179218432
+
+
+
+
+https://www.zhihu.com/video/1050101478357827584
+
+
+https://www.zhihu.com/video/1050102765858254848
+
+
+https://www.zhihu.com/video/1050102934796369920
+先传几个回头再慢慢加。以下是英文原文。
+
+
+更新一下，关于弹药，下面我的回答里有更详细的库存情况，不少图：D
+
+
+战场上士兵们会怎么拿到弹药呢？
+
+
+High Volume Shootout: The Harry Beckwith Incident
+Situation: A gun dealer faces robbers, again. Tonight the odds are seven to one against him.
+Lesson: When the wolf pack has you, an armed citizen needs high capacity defensive weapons.
+Harry Beckwith's Guns in Alachua County, Florida, is probably my favorite gunshop. It isn't just that smell of gun oil, cigar smoke, and old, worn leather that reminds me of the gun shops of my youth. It isn't just the fabulous Luger collection that resides there, nor the excellent buys, especially on collectibles. Harry's place has a karmic touch of the armed citizen about it that you don't find in the atmosphere of your average firearms emporium.
+The revolver always visible at Harry's belt is nothing new for the gunshop habitude. Sometimes he wears a modest Charter Arms .44 Bulldog, and sometimes a Smith & Wesson Model 60 .38 Special with the fabulous Tiffany silver grips that you normally only see in the coffee table gun books.
+No, what's different about Harry's is that as soon as you step out of your car in the spacious parking lot, you notice the bullet holes in the concrete outer walls of the building. Inside you see more holes in the walls.
+There's a photo of a rifle champion next to his bullseye target and there's a hole in the bullseye - a REAL hole, which also pierces glass and backing.
+"I like to tell folks that I put that one there intentionally," says Harry with a puckish grin. At 68, Harry admits that his recollection is a bit cloudy, but he figures that in his 35 years in the retail gun business he has experienced right at 35 robberies and burglaries. He proudly notes that in all those rip-offs and heist attempts, only two firearms were not recovered.
+He also remembers the only three times when the thieves were unfortunate enough to face him. Each time, it evolved into a gun battle. Each time, he shot them and they didn't get to shoot him.
+The first was a pure pistol fight. Harry drew and shot the robber, who lost all interest in carrying on the fight. This saved his life; when the wounded gunman surrendered, Harry Beckwith, a moral man, didn't shoot him again.
+In the second shootout, the gun dealer interrupted a felon about to drive off with guns he'd heisted from the store. Though not a Class III weapons dealer, Beckwith was federally licensed to possess such arms for his own use. When the thug raised a .45 auto pistol at Harry, Beckwith trumped his ace with a burst of full automatic fire from a Smith & Wesson Model 76 9mm submachine gun. Struck in the forehead, the gunman dropped his pistol and screamed, "I'm hit!"
+"Get out of the car," Beckwith roared back. The man did, and realizing he was still alive despite a gunshot wound in the forehead, he ran. Once more, Beckwith held fire.
+The man was captured later and treated for an ugly but minor head injury from a flattened- out 9mm hollowpoint round that had lost most of it's energy piercing the safety glass of the windshield.
+That incident took place in 1976, the Bicentennial of our nation's independence. A Class III weapons owner had delivered a splendidly appropriate demonstration of the independence our nation was celebrating. In the "the spirit of "76," he stopped a violent criminal with a Model 76.
+But neither of these had prepared Harry Beckwith, then 63, old enough to collect Social Security and qualify as a Senior Citizen, for the incident that left his place of business bearing the distinctive scars you can see there to this day.
+The night of November 12, 1990, promised to be a quiet one. The regular bowling pin shoot had finished up less than an hour ago. The gunshop was securely locked up, and so was the separate indoor shooting range building located behind it.
+Harry Beckwith was at home with his wife in their beautiful hacienda, separated from the business structures by about 100 yards of beach sand and trees. A picturesque setting that would make the quintessential Florida postcard.
+Harry was relaxed and watching TV. It was 9:50 p.m. Suddenly, two discordant sounds pierced the night. One was the distinctive crash of a heavy vehicle being driven through the steel-reinforced glass door in the concrete entryway of the gunshop. The other was the yelping of the burglar alarm.
+Beck with moved instantly. He knew his rural location was remote; even though the police would be rolling immediately, he wasn't sure they could get there in time.
+He moved smoothly and certainly, with the economy of motion that comes with age and with planning. He knew his wife would get on the phone and put a gun in her own hand, in a safe place. That left his mind free to cope with the problem of dealing with the marauders.
+He reached for the weapons he had laid out for just such a contingency.
+First was a Charter Arms Bulldog revolver in an old Bucheimer crossdraw paddle holster. It slipped easily into place in front of his left hip. It was loaded with five rounds of his favorite .44 Special ammunition, Winchester Silvertip hollowpoint.
+Next came the Model 76 submachine gun. One magazine was in place, the bolt properly closed, "condition three." More magazines were rubber-banded to the extended stock. Beckwith had found this to be a faster way to access them than to attach a pouch in the same place. He slung the licensed submachine gun over his right shoulder.
+He picked up an AR-15, a gun he has always described as a "Colt Sporting Rifle." It contained one magazine downloaded to only 15 rounds. Another such magazine was banded to its plastic stock as well.
+With the other hand, he scooped up a Remington Model 1100 12 gauge semiautomatic shotgun, already fully loaded.
+Figuring he was ready for anything, Harry Beckwith quietly stepped out into the shadows, moving away from the house in the direction of the shop, some 100 paces distant.
+He could see that two vehicles were there, both '88 Oldsmobiles, one blue and one white. Numerous adult male figures were scurrying in and out of the shop, bearing armloads of guns to the cars through the door they'd crashed. He couldn't make out color or age, only that they were grown men, and that they were maybe seven of them.
+At a point between the shop and the house, he carefully laid the shotgun down out of sight. It would be a fallback weapon if he had to retreat in that direction. He took the AR-15 in both hands, ready, and moved forward again.
+But there was a full moon out, and the same moonlight that had allowed him to observe the criminals allowed them to see him. Beckwith knew then he'd been "made".
+"I should've been more in the shadows," Beckwith would tell me years later. "He gunned the car straight at me. I'm too old to run. I fired off my shoulder at him and the vehicle."
+When the butt of the rifle hit the shoulder pocket, Beckwith opened fire, manipulating the trigger as fast as he could. Suddenly, the AR was not responding; he had run dry.
+The vehicle was still coming at him, rapidly closing the 50 yards distance.
+A skilled man can reload an AR-15 almost as quickly as a Colt .45 auto, and Harry Beckwith is skilled at arms. As his right index finger punched the mag release, his left hand broke the spare magazine free of the rubber band and slammed it home with a practiced motion, his left thumb almost simultaneously pressing the bolt drop paddle on the left side of the frame.
+He resumed fire, as fast as he could work the gun.
+The high-pitched crack of the AR-15 could not drown out the dull chong sound of the .223 ball rounds punching through the auto body, nor the distinctive sound of heavy glass breaking. The vehicle swerved off course, and Harry ran dry again.
+As he dropped the now useless rifle, the blue Oldsmobile veered away from him, cutting to its left. It threw a giant rooster-tail of dust as the driver accelerated away from the old man he had tried seconds before to crush to death. Beckwith saw the car disappear onto Route 441.
+Beckwith turned his attention back toward the shop. Five more of the burglars were there, most holding guns, pistols and longer weapons.
+Silhouetted in the moonlight, too old to run, still facing five-to-one odds against men with all kinds of guns capable of easily killing him from 50 yards away and who could easily have loaded up with some of the thousands of rounds they'd had access to for some time now, Beckwith knew he was still in deadly danger.
+He swung up the Smith & Wesson submachine gun, racked the open bolt back and cut loose on full automatic.
+"I fired high, over their heads, to keep them down," he would explain later. "I used short bursts."
+He saw them duck. He knew it had bought him a moment. But his near-death experience with the blue Oldsmobile bearing down on him was fresh in his mind. If they crawled up the covered side of the car, they could do the same with the white Olds.
+And if two magazines of .223 hadn't disabled the other identical vehicle, what could he hope to do with 9mm fire? He realized that the time to disable the felons' second car was now.
+He swept it from one end to the other, reloaded, and continued. Every window in the Oldsmobile disintegrated as the copper jacketed bullets tore through. Beckwith had stagger- loaded the magazines with hardball and Remington 115 gr. jacketed hollowpoints. The tires deflated with an audible hiss.
+Beckwith saw the surviving perps moving away from the vehicle. Now the big danger was being shot instead of being run down. A second empty S&W magazine hit the ground, and Beckwith opened another burst of diversionary fire with a third stick.
+The perpetrators had enough. He saw them run around the corner of the building. He took a cover position and waited.
+The first police car pulled into the scene approximately one minute later. To Beckwith, it seemed as if he waited an hour.
+However, reconstruction of the incident would show that it had been only three minutes from when the alarm sounded to when the first responding Alachua County deputy made it into the gunshop. The incident itself had lasted less than two minutes.
+During that time, Harry Beckwith had fired 105 shots.
+By 2 a.m. all surviving perpetrators had been arrested and were in custody. Six were at the jail and one at morgue. Roger Patterson, age 18, was found dead in the wreck of the shot up Oldsmobile. He'd gotten across the line into Marion County with one tire shot away, driving 13 miles before he lost control and crashed. Cause of death was a .223 rifle wound through the chest.
+The second man in the blue car was captured near the scene.
+Both cars had been hot-wired and stolen. Some 20 stolen firearms were found in each car. The white Olds had been so badly shot up it had to be towed from the scene.
+Patterson was the only one hit. This was because he was the only one Beckwith fired at. Most of his shots had been directed at keeping the other men's heads down and dissuading them, and at disabling their second vehicle, goals he achieved with spectacular success.
+Beckwith told me later, "I could have killed all five of them, at the end, when they were running away and exposed to me. But I was no longer in danger from them, so chose not to shoot them."
+Beckwith had high praise for the professionalism of the Alachua County Sheriff's Deputies in general, and particularly for those who responded that night - with one possible exception.
+There is still anger in his voice when he relates, "One of them wanted to read me my rights!" However, the anger fades when he continues, " And then a sergeant said to the guy, "He's the victim, for Christ's sake!''
+He is still bitter about having to speak before the grand jury. Most Florida jurisdictions bring justifiable homicides before a grand jury as a matter of course, but being in there alone without legal counsel still has a "star chamber" feel to it that leaves you with no warm fuzziness about the experience at all.
+As any high school civics student knows, the function of a grand jury is to determine if you've committed a crime. That's a bitter pill to swallow when someone just ripped you off and tried to run you down like a possum in the road. Harry Beckwith still bitterly refers to his cross-examination before the grand jury as an "inquisition."
+However, the system generally works, and Shakespeare was right when he said, "The truth will out." The grand jury returned a verdict of no true bill, in effect, designating the incident a justifiable use of lethal force.
+What leaves Harry Beckwith most unhappy today is that these perpetrators, initially charged with felony murder, were allowed to plead down to attempted burglary. They turned out to range in age from 16 to 21.
+Harry Beckwith fired two magazines of 15 rounds each from the Colt .223 rifle, and two full mags and part of a third from the S & W submachine gun. Only one bullet caused death.
+The great majority of his gunfire fell into the "warning shot" category - suppressive fire if you will. We can argue at length about the concept of the warning shot, but the fact remains that in this case, it fulfilled its intended purpose.
+It was not lost on the grand jury that exculpated Harry Beckwith that he could have killed all seven perpetrators, and chose not to. It was likewise to his benefit that twice before in his life, he had shown mercy and not killed men he'd shot when they gave up the fight after he wounded them.
+Every case I've seen of a shooting with a lawfully owned Class III weapon has gone to a Grand Jury. Some of those grand juries have indicted.
+However, every time it was provably self-defense, the subsequent Petit jury has also acquitted the shooter. Still, such trials are extremely expensive for the defendant.
+(Interestingly, Florida is one of only two states, the other being Washington state, where an accused citizen found "not guilty" at trial can be reimbursed legal fees and costs by the local government.)
+A good general rule for avoiding trial in a justifiable shooting would be, "Semi-auto yes, full-auto no."
+In the November, 1990, incident, Beckwith fired more rounds than any armed citizen has probably fired in legitimate self-defense since the Indian Wars. I'm glad he got out of it ok.
+Beckwith's domination and unscathed survival of this incident is owed in large part to the fact that he was allowed to lawfully possess high cartridge capacity, rapid-fire weapons for self-defense, the sort of "assault weapons" our current Administration would forbid other Americans to possess.
+When Ted Gogol of the Law Enforcement Alliance of America was putting together a group of citizens who had used such firearms to protect their own lives and those of other innocent people, I put him in touch with Harry Beckwith, who would have gone to testify before Congress but for the fact that his wife was ill and he couldn't leave her.
+But Harry Beckwith didn't need to testify in Congress to show that he's the kind of tough American who can stand up for his rights, temper justice with mercy, and take care of himself, even against seven-to-one odds if someone is trying to kill him.
+As long as he is allowed to own and use the kind of weapons that give him parity against the sort of brutal criminal that runs in packs, and tries to run down and kill senior citizens who would dare to interfere with their lawless depredations.
+The Ayoob Files
+American Handgunner
+September/October 1995
+====================================================================================================
+与罗永浩这样的人辩(dui)论(ma)时，在语言上占领上风是否可能？
+佐天泪子亲卫队
+可能，又不可能，完全看与罗老师辩论的人是怎样的人。
+
+
+罗老师面对文明人--或者说注意形象的体面人--的时候，可以碾压对方，但是罗老师面对市井之间常年骂人的泼妇，就是个战五渣，我丝毫不觉得罗老师有任何赢的希望。
+
+
+说白了，罗老师的骂人水平一文不值，只是公众场合大家要注意形象，没人像他这么没有底线（罗老师经常进行人身攻击，远的比如“睡前曹尼玛”，近的比如对证券日报发动的私生子攻击），所以显得他攻击性战斗力极强，然而遇到真正战斗力强悍而且同样没底线脏话能连骂几个小时不带重样的人，罗老师这点实力算个P
+
+
+罗老师的私生子攻击
+
+
+（私生子攻击的这一幕总是让我想起马克吐温的竞选州长里那经典的描述，人家觉得这是下三滥的手段，罗老师的三观可能和别人确实有所不同，我记得有个采访问他谈恋爱时对妹子许诺却做不到怎么办，罗老师理所当然地回答“做不到就做不到，说的时候相信就行了”，后来这个观点被他总结成“他在生命的每个时刻都说了他相信的事...什么都没做错”，所以我们会看到罗老师经常会做出信誓旦旦许诺的事情转头就当放臭氧层，这个在他的清奇三观中是没任何错的。）
+
+
+和刘翔的公开辩论，很多人都分析了，但我觉得，那次的辩论（duima），没有完全展露罗老师的真正实力，因为罗老师既没有使用脏字，也没有使用脏字的借代词等等，仅仅是使用了一些顾左右而言他+不让人说话的小技巧而已，刘翔就已经败下阵来。
+
+
+所以要公正评价罗老师的辩(dui)论(ma)实力，还得另找一个战例。
+
+
+我这里用罗老师和小松糕的那次撕逼来举个例子，撕逼全程可以看这里 佐天泪子亲卫队：如何平静的看待罗永浩在微博上如此评论李敖的死？ 我就不复述了。
+
+
+我这里只是给大家贴一下，罗老师展现最高战斗力的那一刻：
+
+
+（很多人没看懂罗老师这是在做什么，我解释一下，羊驼就是神兽“草泥马”）
+
+
+是的，罗老师发出这一招必杀之后，小松糕就遭受到了巨大的伤害，以至于匆匆放下几句狠话之后再也不回复罗老师，罗老师获得了全胜。
+
+
+我个人不太喜欢小松糕这种满口胡说八道的油腻大叔，但他起码在公众场合还是表现出一个文明人的形象，遇到罗老师这种直接拉人到泥地里打滚撕咬的(罗老师没事，因为他本来就是在烂泥中)，肯定是招架不住的。
+
+
+任何一个真正要脸的体面人，遇到罗老师这种招数，在语言上占上风是否可能？完全没可能，这都羊驼傻逼齐飞了，真正体面的人又没法用脏字对骂，那只能是败下阵来啊。
+
+
+总之一句话，罗老师之所以在面对体面人的对骂之中无往而不胜，正是因为他没啥底线，比如私生子攻击，体面人会觉得太下作而不会使用，罗老师却毫无心理压力，可以随意使用。好比拳击比赛，别人不准踢裆，罗老师踢裆不算犯规，那还玩个蛋啊
+====================================================================================================
+南京苏州杭州凭什么都说自己是上海之后长三角第一大都市？
+王启超
+谢邀。
+★补充:原题目是南京苏州杭州凭什么认为自己是长三角第一大都市。
+在我有限的认识中，任何一个具备一定知识储备的人都知道，长三角第一大都市是上海。
+上海不仅是长三角，目前也是中国最大的城市。
+上海是中国的经济中心，是中国GDP总量最高的城市，是国家中心城市，拥有仅次于首都北京的科教文卫实力。
+上海在江南文明和西方文明的共同哺育下，孕育出自己独有的海派文化。上海是年轻又时尚，繁华又迷人的国际化大都市。
+
+
+但是这并不妨碍长三角的南京、苏州、杭州依然有着自身独特的魅力。
+从1843年上海开埠算起，上海仅仅有着175年的建城史。
+在此之前，南京、苏州和杭州，已经持续闪耀了两千余年的光辉。都市的繁华之外，三城各自有着独特的山水风景和历史人文。
+明孝陵、拙政园、西湖
+南京、苏州和杭州三城之间，发展水平相当，还是有着很多可比较的地方。
+
+
+一，经济发展：
+①三城中，按照GDP总量算，苏州遥遥领先，而杭州略微领先于南京。
+根据最新的2018年度前三季度GDP数据，苏州13279亿元，杭州9673亿元，南京9548亿元。
+苏＞杭＞宁
+②按照该数据的名义增速来看，南京8.67%，杭州7.26%，苏州7.19%。
+宁＞杭＞苏
+③按照2017年度的人均GDP来看，苏州162163元，南京141657元，杭州132615元。
+苏＞宁＞杭
+④按照2017年度的一般公共预算收入来看，苏州1908亿元，杭州1567亿元，南京1272亿元。
+苏＞杭＞宁
+
+
+以GDP、人均GDP和一般公共预算收入来看，苏州对于宁杭优势明显，但是南京近年来增速更优。
+
+
+⑤按照全体人均可支配收入来看，2017年苏州50603元，杭州49832元，南京48104元。
+苏＞杭＞宁
+对于小目标级以上的富豪人数而言，目前没有很确切的详细数据。但可以肯定，浙商大本营杭州是遥遥领先于苏州和南京的。
+苏州的千万级以上富豪人数会领先于南京（制造业企业主），而南京的五百万级高级中产人数会领先于苏州（企事业单位管理层和技术骨干）。
+总体民富而言，杭＞苏＞宁，杭州无论是顶级富豪还是总体民富都很强，三地在全国范围内都是仅次于北上广深的富裕城市，其中杭州的顶级富豪可以有和广州掰手腕的资本。
+
+
+政治和科教文卫地位：
+①国家定位：
+南京是副省级城市，华东地区唯一特大城市，东部地区重要的中心城市，全国重要的科研教育基地和综合交通枢纽，东部战区司令部驻地（一共五个），人民银行分行驻地（一共九个），国家土地督察局分局驻地（一共九个），中科院分院驻地（一共十二个），最高人民法院第三巡回法庭驻地（一共六个）。
+杭州是副省级城市，I型大城市，中国重要的电子商务中心。
+苏州是地级市，I型大城市。
+
+
+②高等院校及科研院所分布：
+南京：
+南京985高校（2）：南京大学、东南大学
+南京大学校徽
+东南大学校徽
+南京211高校（6）：南京航空航天大学、南京理工大学、河海大学、南京农业大学、南京师范大学、中国药科大学
+南京其余双一流高校（4）：南京邮电大学、南京林业大学、南京信息工程大学、南京中医药大学
+南京军事院校（3）:陆军指挥学院（副军级）、陆军工程大学（副军级）、海军指挥学院（副军级，海军最高学府）
+中科院研究所（7）：紫金山天文台、国家天文台南京天文光学技术研究所、南京天文仪器有限公司、南京地理与湖泊研究所、南京地质古生物研究所、南京土壤研究所、江苏省中国科学院植物研究所
+杭州：
+杭州985高校（1）：浙江大学
+浙江大学校徽
+杭州其余双一流高校（1）：中国美术学院
+杭州军事院校（1）：武警士官学校（正师级）
+苏州：
+苏州211高校（1）：苏州大学
+苏州大学校徽
+中科院研究所（2）：苏州纳米技术与纳米仿生研究所、苏州生物医学工程技术研究所
+
+
+③三甲医院数：
+南京38
+杭州20
+苏州8
+④人均预期寿命（2017年）
+南京82.71岁（男80.61女84.97）
+杭州82.42岁（男80.56女84.42）
+苏州83.04岁（男80.73女85.37）☆全国第二
+
+
+政治和科教文卫总体而言，南京遥遥领先。
+苏州人均寿命高说明其百姓医疗卫生状况和生活水平非常良好，但总体科教文卫水平受限于政治地位，无力与省会城市抗衡。
+
+
+三，交通枢纽：
+①地铁里程及日平均客运量（截止2018年10月）
+南京 10线，378km，最高日客运量400.2万人次，日均客运量340万人次
+杭州 3线，117.6km，最高日客运量178.7万人次，日均客运量150万人次
+苏州 3线，121km，最高日客运量124.7万人次，日均客运量70万人次
+
+
+②铁路客运量（2017年）
+南京：5066万人次
+杭州：6807万人次
+苏州：4485万人次
+
+
+③民航机场吞吐量（2017年）
+南京禄口机场：旅客吞吐量25，822，936人次（全国11，增速15.5%），货邮吞吐量374，214.9吨（全国10，增速9.7%）
+杭州萧山机场：旅客吞吐量35，570，411人次（全国10，增速12.6%），货邮吞吐量589，461.6吨（全国6，增速20.8%）
+苏州梅友机场：你们聊我先走了
+
+
+④内河港口吞吐量（2017年）
+南京港：24215万吨，增速6.4%
+杭州港：10714万吨，增速47.2%
+苏州港：60456万吨，增速4.4%
+
+
+⑤私人汽车（2017年）
+南京201.56万辆
+杭州189万辆
+苏州302.6万辆
+
+
+综合来看，苏州作为中国工业产值最高的城市，港口货运吞吐量遥遥领先于南京和杭州，但是航空运输瘸腿，不得不说是城市政治地位的无奈。
+南京地铁建设优势极大，表现出宏大的城市轨道交通骨架和良好的市内交通情况。
+杭州的铁路和航空客运人次占优，说明经济活力和城市吸引力占优。
+
+
+四，传统零售业和新零售业
+①社会消费品零售总额（2017年）
+南京5605亿元
+杭州5717亿元
+苏州5443亿元
+②人均社会消费品零售总额（2017年）
+南京6.73万元☆全国第一
+杭州6.04万元
+苏州5.10万元
+
+
+南京传统社消一直很强，2017年中国大陆商场销售额top20中，新街口占了4家（德基广场90亿、中央商场50.7亿、南京新百43亿、金鹰国际43亿），是中国大陆顶级商场最集中的单一商圈。南京，其实真的比经济指标所展现的更为强大。
+而作为阿里系的大本营，杭州在新零售领域大放异彩。
+根据数字经济智库发表的《中国新零售之城竞争力》，杭州的新零售指数排名全国第四，仅次于传统一线城市北上广，高于排名第六的苏州和第八的南京。
+根据北京大学光华管理学院发布的《新零售城市发展指数报告》，杭州的新零售城市综合指数排名全国第四，高于排名第八的南京（仅排入直辖市和省会城市，可怜的苏州）。
+杭州是中国新零售领域的领军者和创新者，率先诞生了智能母婴室、智能卫生间，第一家智能化天猫小店、无人餐厅等也在这里破茧而出。敢于创新的杭州人，无愧于电商之都的名号。
+智能母婴室
+
+
+同为长三角重镇的南京和苏州，在新零售领域的表现也可圈可点。盒马鲜生门店数量，南京与苏州持平，同为4家门店，而首批“饿了吗专星送”上线城市中，南京是3家，杭州是2家。南京在传统社消上展现出的强大消费能力，结合最近阿里江苏总部落户南京的利好，南京今后无疑会在新零售领域更上一层楼。现在，只要在线下单，一小时以内，南京人在家同时品尝本地传统的盐水鸭和苏州阳澄湖的大闸蟹，已成为了生活常态。
+
+
+除了人均可支配收入之外，人均社消也是反映城市民富水平的重要体现。苏州相比南京和杭州，人均可支配收入更高，而人均社消水平却差一截，新零售领域的发展态势也要稍逊一头，这和苏州户籍人口占比较低以及城市枢纽地位不足有关（甚至社消等会被上海虹吸）。
+
+
+五，总结：
+主要的数据分析已经较为完整的列出，数据来源详实可靠，主要采用上一年度该市的统计年鉴及靠谱的商业统计报告。
+
+
+南京、苏州和杭州均是长三角地区仅次于上海的重要城市，他们经济发达，又各自在中华文明中有着重要的地位。明清时期，全国共有三个织造府，就分别坐落在江宁（今南京）、苏州和杭州。这三座城市有着最早的大规模手工业，是全国经济最发达的地区。
+今天的长三角，上海是唯一的龙头，却也并不能遮掩南京、苏州和杭州的繁华。
+南京自古是政治和军事重镇，尽管上世纪九十年代以来，由于政策和地缘问题，发展滞后，但是雄厚的城市基础和重要地理位置决定了南京有腾飞的可能。
+杭州赶上了互联网的好时代，但是新常态之后的新时代，南京未必没有人工智能和生物医药的未来。
+杭州，一个二线城市的体量，却有着众多的行业巨头:阿里巴巴、网易、海康威视、吉利汽车……浙江人敢闯敢拼的精神，真的值得兄弟城市学习。我个人在用支付宝快捷支付，用饿了吗点外卖，用淘票票在线选座，用盒马鲜生采购食材时，对杭州这座城市是打心底佩服的。杭州的创新经济，便利的不仅仅是杭州市民，也是我们每一个人。
+苏州，不是省会，也不是副省级的计划单列市，苏州只是一个委屈的没有机场的地级市。苏州的经济指标，曾经亮瞎眼，如今也依然靓丽，只是，上一个十年，属于苏州的那个外资代工时代，真的过去了。杭州，凭借着互联网的崛起，和G20、亚运会的契机，已经有了当下这一个十年。南京，也凭借着自身的基础和省内的政策重视，稳步前进，或许会有下一个十年。当然，南京或者杭州的发展潜力再高，也很难在百姓生活水平上和苏州真正拉开差距，毕竟苏州坐拥太湖和阳澄湖，会一直站在美食鄙视链的顶端。
+三座城市，无论你选择哪里，都不会后悔。两千多年来的相爱相杀，永远没个完。
+
+
+☆利益声明：1/4浙江血统的苏州籍南京人。
+====================================================================================================
+竞赛退役是一种怎样的体验？
+宇寒侠
+35thCPHO铜牌退役
+你可能要问现在成绩不是还没出吗，怎么就铜牌了。是的，理论考完当场去世，实验再次去世。已经知道了自己的结局。
+本来以为这个问题下面的回答都会是比较颓的内容，看来我还是年轻——翻一翻回答就发现，原来dalao们眼中的退役都是金牌啊。情绪稳定地读完“因为没进队哭了很久”的回答，我无言以对，身份不同追求不同吧，抱着拿银牌的希望来到上海的我，本身就和dalao们不在一个世界。
+来自西北弱省甘肃，一个全国人均收入水平倒数第一的省份。竞赛党在这里基本可以说是地下党。答主就读于甘肃省最好的高中，然而即便如此，学校里的竞赛氛围可以说是零。没有所谓“竞赛班”更没有教练，搞竞赛的学生获得的唯一特权就是不用写物理作业（后期也可以自己请假停课）。一切知识点自学，培训自己找，考试自己组织——“没教练怎么搞竞赛？！”——这是我在培尖培训的时候某深中dalao的惊叹，我也只能苦笑一下，不知道怎么回答这个问题。
+初入高中的我并没想着去做竞赛，这直接导致我入坑过晚，在高一下学期才开始看程书。不过因为甘肃水平实在过低，高二34届比赛我就拿了省一，还参加了北大金秋营——那是我第一次去北大，也是我第一次见识dalao是什么模样。考试自然是砸得彻底，不过我当时也没想着拿什么约，抱着旅游的心态转一转校园，心想这就是天堂的样子啊，可惜我大概永远也不会成为这里的一份子。回到兰州，继续看书刷题，过着该过的生活。
+班里有人问我，身为弱省学生，你们参加培训的时候会不会受到歧视。我想是会的，第一次去质心复赛班的时候，坐着接站大巴去营地，门卫大爷问我们哪来的，当我们回答甘肃的时候，得到的是一句“甘肃居然也有人来？”。我也本来以为“甘肃人是不是骑骆驼上学”只是个自嘲的梗，直到坐在我身后的浙江小哥认真地问出这个问题。以至于后来当有人问我来自哪里的时候，我都不敢自称甘肃考生，就一句“弱省”给提问者留下一些遐想。
+班里还有人问我，竞赛存在强省强校垄断吗？我也认为是的，并且非常严重，至少物理是这样。在最优质的资源，最强大的师资和最浓厚的氛围面前，西北的学生显得有点可笑，有点不自量力。10月培训的时候，我第一次听说培训费用学校还给报销，也第一次听说某某省只要进省队北大就给一本约。甚至在培训基地里，其他省队都怪异地看着我们，觉得“你们是省队为啥还没被签？”。原来我们梦寐以求的一本约，在强省看来是理所当然。不过我毫无愤慨之意，dalao们的水平，诚然高出我不知多少。我只是为我自己的经历而悲哀。
+然而要说甘肃学生不努力不上进，我认为是不妥当的。高中已过去两年多，我晚上平均在一点睡觉，况且我在班里，也不算很上进勤奋的学生。在这里搞竞赛的学生，是真的抱有对物理的热爱与追求，在孤独与寂寞中默默前行的人。记得高一去学全年级志在竞赛的人也有十几个，斗转星移，两年过去，只剩下四个人还在坚持。决赛过后，我们又将回到熟悉又陌生的教室，努力去适应高考的节奏，忘却自己两年的梦。
+与我同来上海的还有一位甘肃地县中学的同学，就叫他w吧。据他描述“我们学校还没你们学校体育馆大”。一起培训的时候就，w每天六点起床开始学，到七点半去实验基地，回到酒店九点半，他学到十一点睡觉。与此同时，我眼中的dalao们，多在玩手机。然而论实力，w与dalao们差了千千万万倍。他不努力吗？他这个年纪，头发已经白了一半多，全班23个人，他有好多至今都不认识。在去培训的飞机高铁上，w一直在学习，平心而论勤奋程度，w超过我认识的任何人。然而这丝毫不影响我们集体被强省julao碾压。
+我曾经对衡水中学教育模式嗤之以鼻，对应试教育也是深恶痛绝。也曾经推崇过“素质教育”，直到我参观上海中学这座典型的“素质教育”学校。比我校操场还大的网球馆、室内和室外游泳馆、百年历史的一大片树林……有着清北复交70%以上录取率的上海中学，同时也有着我们不敢想象的资源和便利。在上中食堂门口的音乐会海报前，我忽然想起w连培尖午餐发的柚子都没见过。
+为了竞赛培训和各种营多次前往北京，每次都是坐高铁。2000多公里的路程，连接着两个世界。沿途路过的西北农村，极度的贫穷触目惊心，而再过几个小时，繁华发达的首都让整个世界看到中国发展的速度。在上中，在徐家汇，在陆家嘴，在汤臣一品最低8900万的房子前，面对着黄浦江对岸灯火璀璨的外滩，我恍惚间突然觉得，人的命运是不是从一出生就被决定了呢？
+北京文科状元“农村学生越来越难考上好大学”的言论曾经刷屏。当时的我内心毫无波动，因为我不是农村学生，也不为吃穿发愁。考完实验的夜晚，躺在床上，除了痛斥自己的无能，我又翻出了这采访视频。看着状元眉飞色舞地说：“现在前面的都是我这种家里又好又厉害的”，我有点想讪笑自己，普天之下，知我者几何？
+马上要回归高考，仿佛做了很久的梦突然醒来，竞赛的感觉就像断线风筝，一去不回。也许几个月后，当我于书山题海中挣扎时，会在一刹那凝视着一书架的“真正的力量”；目光扫过一本本刷过两三遍的厚厚的题集，我也会回味自学普物时的欣喜，回味解出第一道题时的舒畅，回味当年小小弱鸡大大的梦想，却再也回不去往昔奋不顾身的岁月。
+子路宿于石门。晨门曰：“奚自？”子路曰：“自孔氏。”曰:“是知其不可而为之者与？”是啊，知其不可而为之者与？
+====================================================================================================
+猫真的对婴儿更有忍耐力吗？为什么？
+虚菜鸟
+谢谢大家喜爱！开心爆了！竟然破千了！你们能体会我这个中年核潜艇多开心么！
+看来两个儿子很有人缘嘛～
+不过，还是想多说几句：喵子的脾气，因喵而异。千万不能因为养了一只脾气好的猫就放心的让它跟孩子去玩了。因为作为人类，很难拿到猫咪的奇葩敏感底线。孩子踹猫肚子都不会反抗的猫，可能会因为碰到尾巴根而亮爪子。
+喵子跟孩子玩，大人一定要眼观六路的跟着！
+———————————————————
+关于问吃什么长这么大个子？
+喵子十五斤了有突破趋势，一直吃的普通猫粮（叫啥忘了，都是夫人负责买，我负责养）没换过。它是单纯的不挑食很能吃罢....没喂过罐头什么的零食，当狗养的，个子确实不小了。
+以下原答案———————————————-
+在我儿子出生之前，我养了一只猫来培养自己的耐心。
+这货小时候是一肚子坏水。经常把我刚买的面条大饼馒头藏起来。烦得很。我以为它长大会很难搞定。
+却不想有了我儿子之后，他俩相处的好的出乎我意料。儿子没满月的时候，刁猫经常偷摸去陪孩子睡觉。所以总是被我夫人揪起后脖领子领走。
+儿子长大了些，早上起来猫哥哥也会偷摸去扒床头看我儿子。很温馨。儿子跟它玩时候下手没轻没重，刁猫没有任何反抗的意思，全程忍让
+我觉得确实是幸运，碰上了脾气好的猫。
+
+
+
+
+希望每个人的猫儿子和亲儿女都能相处融洽吧
+====================================================================================================
+如何看待“女儿是水做的骨肉,男人是泥做的骨肉。我见了女儿,我便清爽；见了男子,便觉浊臭逼人”的观点？
+laq是只仓鼠
+这种话脱离了小说文本，不是正着反着转着圈，怎么说怎么有？
+看我给你随口编啊(｡･ω･｡)ﾉ♡
+
+
+1.女儿是水做的骨肉,男人是泥做的骨肉。男人坚如磐石，忠贞不二，女人水性杨花，挽留不住。
+
+
+2.女儿是水做的骨肉,男人是泥做的骨肉。所以男人来自大地，而女人来自天空；女人不懂男人的脚踏实地的隐忍，男人不懂女人天马行空的浪漫。
+
+
+3.女儿是水做的骨肉,男人是泥做的骨肉。在寂寞的冬夜里，男人的坚强是冻土，而女人的强硬是坚冰。冻土难发新芽，坚冰一碰就碎。
+
+
+4.女儿是水做的骨肉,男人是泥做的骨肉。只有水搭不起高楼，只有泥建不起大厦，只有男女在一起，成了水泥，才能搭建我们新社会的高楼大厦。
+
+
+5.女儿是水做的骨肉,男人是泥做的骨肉，而你是可爱做的骨肉。
+
+
+6.女儿是水做的骨肉,男人是泥做的骨肉。所以吃法做法都不一样，女人适合刺身，男人则得多炖炖。
+
+
+7.女儿是水做的骨肉,男人是泥做的骨肉。女人说话水分多，男人说话都是干货。
+
+
+8.女儿是水做的骨肉,男人是泥做的骨肉。相爱的男女便是泥水交融，混在了一起，是你中也有我，我中也有你，好不甜蜜！
+
+
+9.女儿是水做的骨肉,男人是泥做的骨肉。所以江南水乡里多是水灵灵的妹子，而干旱的地方就只有漫天黄土的男人了。
+
+
+10.女儿是水做的骨肉,男人是泥做的骨肉，而遇到那个女孩之前，每个男孩都是毫无水分生气的一抔黄土罢了。
+
+
+11.女儿是水做的骨肉,男人是泥做的骨肉。泥字里有个三点水，正说明了男人离不开女人，男人的一半其实是女人啊！！每个男人都有女装的潜质！！
+
+
+
+
+像这些，这种乍一看有道理的话，本鼠子八分钟能生产十一个，要不是饿了得去觅食了，我能一直说到手机没电(｡･ω･｡)ﾉ♡！！！
+
+
+所以，朋友，就不要从脱离了小说的小说句子里寻找人生真谛，道理共鸣了(｡･ω･｡)ﾉ♡不靠谱(｡･ω･｡)ﾉ♡
+
+
+不如看看教科书(｡･ω･｡)ﾉ♡
+
+
+
+
+以上
+
+
+
+
+纯属开玩笑的(｡･ω･｡)ﾉ♡
+
+
+P.S.
+最近吃了好多橘子，好吃| ू•ૅω•́)ᵎᵎᵎ| ू•ૅω•́)ᵎᵎᵎ| ू•ૅω•́)ᵎᵎᵎ
+今天也要吃橘子| ू•ૅω•́)ᵎᵎᵎ| ू•ૅω•́)ᵎᵎᵎ
+====================================================================================================
+如果现实中剪一个郭采洁同款发型，是怎样的体验？
+林耘吉
+关于卷发的问题，在我们学校头发不能烫染，前不过眉（刘海不能长过眉头），后不贴领（后面不能触到衬衣衣领）这个卷发是我军训时候的，因为军训每天都是戴帽子，甚至出宿舍就戴上帽子，所以并没有被督。
+军训结束第一天我就自己拉直了，对，没错！我又是自己动手搞头发
+
+
+现在的头发不卷，只是有些蓬松而已
+
+
+学校纪律还是很严的。
+————————————————————
+谢谢你们的赞和夸奖，无论什么发型，你觉得好看才会想要去尝试，想要让自己变得更美丽，希望你们能从我的回答里得到一些东西，能帮到你们的，如果是这样，我会很开心
+
+
+————————————————————
+
+
+混迹知乎两三年，哈哈哈哈哈哈哈哈哈第一次收获这么多赞，受宠若惊。感谢各位小祖宗的赞和感谢。那个卷发卷的最厉害的时候正赶上军训，所以积累了一大堆表情包，就不和你们分享了，我怕你们不夸我了( ´▽｀)
+然后啊，我确实是给理发师说的要同款，可能他理解的同款和我理解的不一样吧
+剪头发这个事情吧……
+一定要找到适合自己的发型
+一定！不要乱搞啊！！！
+切记啊！！！！！
+
+
+
+
+
+
+以下原答案
+
+
+————————————————
+
+
+
+
+剪前郭采洁，剪后陈奕迅
+我就拿这组图给tony老师看的
+我不知道我是太相信Tony老师了，还是对自己太有自信l
+
+
+要剪郭采洁同款，剪完却成了陈奕迅
+发到群里，被朋友们无情的嘲笑
+这是剪头发的前一天拍的
+呵，真是火气满满的每一天啊
+人送外号 卷毛
+我从初中开始就是短发，基本各种类型的短发我都尝试过了。开学两个月，对这鸡窝的忍耐已经达到了上限，于是我自己把头发剪了
+很满意，我觉得我有当tony老师的天赋
+
+
+
+
+
+
+
+
+
+
+我决定以后都自己剪头发了，真是省了一大笔钱啊 我真棒
+====================================================================================================
